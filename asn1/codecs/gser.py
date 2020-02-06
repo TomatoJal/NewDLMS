@@ -2,11 +2,9 @@
 
 """
 
-import time
 import binascii
 import math
 from copy import copy
-import datetime
 
 from . import EncodeError
 from . import DecodeError

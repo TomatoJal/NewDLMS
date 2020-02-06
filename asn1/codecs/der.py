@@ -32,9 +32,6 @@ from .ber import ObjectDescriptor
 from .ber import Date
 from .ber import TimeOfDay
 from .ber import DateTime
-from .ber import decode_length
-from .ber import encode_real
-from .ber import decode_real
 
 
 class Type(object):
